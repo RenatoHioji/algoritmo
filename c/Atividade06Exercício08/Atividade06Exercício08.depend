@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683237647 source:c:\users\dsm-1\desktop\algoritmo\c\atividade06exercício08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

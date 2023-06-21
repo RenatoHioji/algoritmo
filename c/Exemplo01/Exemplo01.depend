@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679955836 source:c:\users\dsm-1\desktop\algoritmo\c\exemplo01\main.c
+	<stdio.h>
+	<stdlib.h>
+
